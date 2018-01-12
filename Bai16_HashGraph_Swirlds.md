@@ -1,6 +1,6 @@
 
-THE SWIRLDS HASHGRAPH CONSENSUS ALGORITHM: FAIR, FAST, BYZANTINE FAULT TOLERANCE
-by LEEMON BAIRD
+The Swirlds Hashgraph Consensus Algorithm: Fair, Fast, Byzantine Fault Tolerance
+by Leemon Baird
 
 MAY 31, 2016
 
