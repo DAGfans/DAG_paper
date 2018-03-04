@@ -4,7 +4,11 @@
 
 ### School of Engineering and Computer Science,
 
+### 计算机科学与工程学院
+
 ### The Hebrew University of Jerusalem, Israel
+
+### 耶路撒冷希伯来大学，以色列
 
 ```
 {yoni sompo,avivz}@cs.huji.ac.il
